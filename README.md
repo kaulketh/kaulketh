@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="kaulketh_github_banner.png"
+       alt="kaulketh – Maker Projects"
+       width="100%">
+</p>
 
 <!--
 **kaulketh/kaulketh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
