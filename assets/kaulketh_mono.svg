@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>kaulketh Maker Signet</title><g stroke-linecap="round" stroke-linejoin="round">
+ <path d="M126 104 H183 V241 L309 104 H387 L255 250 L393 408 H313 L183 265 V408 H126 Z" fill="none" stroke="#111111" stroke-width="23"/>
+ <path d="M126 104 H183 V241 L309 104 H387 L255 250 L393 408 H313 L183 265 V408 H126 Z" fill="#ffffff" stroke="#111111" stroke-width="7"/>
+ <path d="M142 136 V198 M142 294 V372 M165 115 V178 M165 327 V391 M208 233 L282 152 M215 282 L309 382" fill="none" stroke="#111111" stroke-width="7"/>
+ <g fill="#ffffff" stroke="#111111" stroke-width="7"><circle cx="142" cy="130" r="8"/><circle cx="142" cy="380" r="8"/><circle cx="165" cy="107" r="8"/><circle cx="165" cy="400" r="8"/><circle cx="287" cy="145" r="8"/><circle cx="315" cy="389" r="8"/></g>
+ <g fill="#111111" stroke="#ffffff" stroke-width="2"><circle cx="390" cy="286" r="17"/><circle cx="421" cy="286" r="17"/><circle cx="374" cy="314" r="17"/><circle cx="405" cy="314" r="17"/><circle cx="435" cy="314" r="17"/><circle cx="389" cy="343" r="17"/><circle cx="420" cy="343" r="17"/><circle cx="405" cy="371" r="17"/></g>
+ <path d="M397 265 Q367 251 369 230 Q397 228 405 252 Q412 229 437 232 Q433 252 408 265" fill="#111111"/>
+ </g></svg>
