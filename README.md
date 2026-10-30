@@ -8,7 +8,7 @@
 <h2 align="center">Maker Projects</h2>
 
 <p align="center">
-  <i>Engineered with curiosity.</i>
+  <i>Engineered with curiosity. Built with passion.</i>
 </p>
 
 <p align="center">
