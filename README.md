@@ -44,10 +44,11 @@
     <img src="assets/igelpi_logo_neu.png" alt="IgelPi" width="220">
     <br><br>
     <p>
-      Smart hedgehog feeding station with
-      camera and automatic food dispensing.
+      coming soon
     </p>
-    <b>Coming 2027-2028</b>
+    <a href="https://github.com/kaulketh/igelpi">
+      <b>Explore IgelPi</b>
+    </a>
   </td>
 </tr>
 </table>
