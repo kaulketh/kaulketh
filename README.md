@@ -20,9 +20,11 @@
 
 <table>
 <tr>
-  <td width="33%" align="center">
-    <h3>🐦 BirdPi</h3>
-    <b>Nature in View</b>
+  <td width="33%" align="center" valign="top">
+    <a href="https://github.com/kaulketh/BirdPi">
+      <img src="assets/birdpi_logo_neu.png" alt="BirdPi" width="220">
+    </a>
+    <br><br>
     <p>
       Raspberry Pi powered wildlife observation
       with camera and web interface.
@@ -31,9 +33,11 @@
       <b>Explore BirdPi</b>
     </a>
   </td>
-  <td width="33%" align="center">
-    <h3>🐍 KobraPi</h3>
-    <b>Print · Control · Create</b>
+  <td width="33%" align="center" valign="top">
+    <a href="https://github.com/kaulketh/KobraPiV2">
+      <img src="assets/kobrapi_logo_neu.png" alt="KobraPi" width="220">
+    </a>
+    <br><br>
     <p>
       Raspberry Pi powered 3D printer monitoring,
       control and automation.
@@ -42,9 +46,9 @@
       <b>Explore KobraPi</b>
     </a>
   </td>
-  <td width="33%" align="center">
-    <h3>🦔 IgelPi</h3>
-    <b>Fine Dining for Spiky Friends</b>
+  <td width="33%" align="center" valign="top">
+    <img src="assets/igelpi_logo_neu.png" alt="IgelPi" width="220">
+    <br><br>
     <p>
       Smart hedgehog feeding station with
       camera and automatic food dispensing.
