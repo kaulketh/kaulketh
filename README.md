@@ -53,7 +53,7 @@
       Smart hedgehog feeding station with
       camera and automatic food dispensing.
     </p>
-    <b>Coming 2027</b>
+    <b>Coming 2027-2028</b>
   </td>
 </tr>
 </table>
