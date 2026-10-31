@@ -1,15 +1,10 @@
 
 <p align="center">
-  <img src="assets/kaulketh_github_banner_II.png"
+  <img src="assets/Kaulketh Maker Projects Branding banner.png"
        alt="kaulketh - Maker Projects"
        width="100%">
 </p>
 
-<h2 align="center">Maker Projects</h2>
-
-<p align="center">
-  <i>Engineered with curiosity. Built with passion.</i>
-</p>
 
 <p align="center">
   Raspberry Pi &bull; ESP32 &bull; Python &bull;
