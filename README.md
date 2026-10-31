@@ -21,8 +21,7 @@
     </a>
     <br><br>
     <p>
-      Raspberry Pi powered wildlife observation
-      with camera and web interface.
+      Raspberry Pi powered wildlife observation web interface.
     </p>
     <a href="https://github.com/kaulketh/BirdPi">
       <b>Explore BirdPi</b>
