@@ -35,8 +35,7 @@
     </a>
     <br><br>
     <p>
-      Raspberry Pi powered 3D printer monitoring,
-      control and automation.
+      Raspberry Pi powered 3D printer control interface.
     </p>
     <a href="https://github.com/kaulketh/KobraPiV2">
       <b>Explore KobraPi</b>
