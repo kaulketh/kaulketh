@@ -7,8 +7,7 @@
 
 
 <p align="center">
-  Raspberry Pi &bull; ESP32 &bull; Python &bull;
-  3D Printing &bull; Electronics &bull; Automation
+  Raspberry Pi &bull; ESP32 &bull; Python &bull; Arduino &bull; 3D Printing &bull; Electronics &bull; Automation
 </p>
 
 ---
