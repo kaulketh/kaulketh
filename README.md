@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Kaulketh Maker Projects Branding banner.png"
+  <img src="assets/Neon kaulketh Maker Projects Branding banner.png"
        alt="kaulketh - Maker Projects"
        width="100%">
 </p>
