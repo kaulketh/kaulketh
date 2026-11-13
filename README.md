@@ -44,13 +44,14 @@
   </td>
   <td width="33%" align="center" style="vertical-align:top;">
     <br>
-    <img src="assets/OutOfOffice_ BLE-E-Paper Maker-Badge.png" alt="O³ – OutOfOffice" width="220">
+    <a href="https://github.com/kaulketh/outofoffice">
+      <img src="assets/OutOfOffice_ BLE-E-Paper Maker-Badge.png" alt="O³ – OutOfOffice" width="220">
+    </a>
     <br><br>
     <p>
-      User Interface for BLE E-Paper Room Signs
+      XIAO nRF52840 powered user interface for BLE e-paper room signs
     </p>
     <a href="https://github.com/kaulketh/outofoffice">
-      <br>
       <b>Explore O³</b>
       <br><br>
     </a>
