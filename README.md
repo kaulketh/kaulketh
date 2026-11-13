@@ -49,7 +49,7 @@
     </a>
     <br><br>
     <p>
-      XIAO nRF52840 powered user interface for BLE e-paper room signs
+      Seeed XIAO powered user interface for BLE e-paper room signs
     </p>
     <a href="https://github.com/kaulketh/outofoffice">
       <b>Explore O³</b>
