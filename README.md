@@ -44,14 +44,14 @@
   </td>
   <td width="33%" align="center" style="vertical-align:top;">
     <br>
-    <img src="assets/igelpi_logo_neu.png" alt="IgelPi" width="220">
+    <img src="assets/OutOfOffice_ BLE-E-Paper Maker-Badge.png" alt="O³ – OutOfOffice" width="220">
     <br><br>
     <p>
-      coming soon
+      User Interface for BLE E-Paper Room Signs
     </p>
-    <a href="https://github.com/kaulketh/igelpi">
+    <a href="https://github.com/kaulketh/outofoffice">
       <br>
-      <b>Explore IgelPi</b>
+      <b>Explore O³</b>
       <br><br>
     </a>
   </td>
