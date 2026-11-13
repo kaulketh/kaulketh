@@ -11,7 +11,7 @@
 </p>
 
 ---
-
+<!--
 <table>
 <tr>
   <td width="33%" align="center" style="vertical-align:top;">
@@ -57,7 +57,7 @@
   </td>
 </tr>
 </table>
-
+-->
 ---
 
 <p align="center">
